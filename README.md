@@ -1,5 +1,13 @@
 # Ligtas Link
 
+# CONTRACT ID
+CBXO3UVP3NVON7XCA4LOEEHF3MWGHUAD5MA4IEZSMUOHBHCFCDWMM7UA
+
+# CONTRACT LINK
+https://stellar.expert/explorer/testnet/tx/bbe81bcafd575d4f67b6e0bc1936a1deed73a81f6da9aeec595c9f302299c6a1
+
+![PICTURE](stellar.png)
+
 A decentralized oracle-driven parametric micro-insurance climate escrow dApp delivering instantaneous automated disaster relief payouts to rural agricultural cooperatives across the Philippines via Soroban.
 
 ## Problem & Solution
